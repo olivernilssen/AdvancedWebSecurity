@@ -1,0 +1,10 @@
+How to: 
+
+All the files run from main
+At the start of each main file, you can change the input file
+
+Change the name of this input file before running the code
+
+python merkel_path.py 
+python merkel_tree.py
+python luhn_algo.py 
